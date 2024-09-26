@@ -1,0 +1,7 @@
+unique_name: m_Orders_Fulfillment Duration_sum
+object_type: metric
+label: Average Fulfillment (Days)
+calculation_method: average
+column: Fulfillment Duration
+dataset: Orders
+format: general number

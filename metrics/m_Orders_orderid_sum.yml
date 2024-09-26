@@ -1,0 +1,7 @@
+unique_name: m_Orders_orderid_sum
+object_type: metric
+label: Orders count
+calculation_method: count distinct
+column: orderid
+dataset: Orders
+format: general number
